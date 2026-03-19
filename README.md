@@ -12,6 +12,8 @@ Ders 3 - Veri Bilimi: https://colab.research.google.com/drive/1W7QA0GoJxjngqvnxN
 Ödev Restaurant Tips : https://colab.research.google.com/drive/18Su-z-1dYaIvpLZh3TVD2rC7WEfd7ZEa?usp=sharing
 Data: https://drive.google.com/file/d/1h3K0ma5o3yRgAkzwOb9vwic_moH3Aqfr/view?usp=sharing
 
+Ödev Analiz: https://colab.research.google.com/drive/1GwYXWjFjIHJu7LSc_d7j-HM0D5_UPMYW?usp=sharing
+Data: https://drive.google.com/file/d/1h3K0ma5o3yRgAkzwOb9vwic_moH3Aqfr/view?usp=sharing
 
 
 
