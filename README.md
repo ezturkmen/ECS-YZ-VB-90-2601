@@ -21,3 +21,6 @@ Ders 4 - Kaggle Titanik Yarışması: https://www.kaggle.com/code/ezturkmen/tita
 
 
 
+Ders 10 - Corona Veri Seti Yarışan Grafikler : https://colab.research.google.com/drive/1-1mZFzJFylVtuOjjjz2th9KLOihsWBSk?usp=sharing
+
+Data: corona_dat.csv
