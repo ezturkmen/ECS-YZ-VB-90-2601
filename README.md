@@ -24,3 +24,5 @@ Ders 4 - Kaggle Titanik Yarışması: https://www.kaggle.com/code/ezturkmen/tita
 Ders 10 - Corona Veri Seti Yarışan Grafikler : https://colab.research.google.com/drive/1-1mZFzJFylVtuOjjjz2th9KLOihsWBSk?usp=sharing
 
 Data: corona_dat.csv
+
+Ders 22 -  ANN - Yapay Sinir Ağları : https://colab.research.google.com/drive/1Euv8e0DhGpUmBmDS3nC6MxDY8CUACHMp?usp=sharing
